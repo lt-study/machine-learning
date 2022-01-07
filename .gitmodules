@@ -1,0 +1,3 @@
+[submodule "resource"]
+	path = resource
+	url = https://github.com/lt-study/handson-ml2.git
